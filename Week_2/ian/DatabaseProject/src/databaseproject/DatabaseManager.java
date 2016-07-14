@@ -11,9 +11,9 @@ package databaseproject;
  */
 import java.util.HashMap;
 
-/**
- *
- * @author ianlong
+/*
+ Here we define the database manager as a HashMap with an integer
+ 
  */
 public class DatabaseManager {
 
